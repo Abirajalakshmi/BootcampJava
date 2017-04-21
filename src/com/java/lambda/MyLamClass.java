@@ -41,6 +41,8 @@ public class MyLamClass {
 			}
 		});
 		th1.start();
+		
+		
 	}
 
 }
